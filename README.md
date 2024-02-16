@@ -1,2 +1,2 @@
 # wordpress-intro-2023-2024
-School class project to learn wordpress
+School project to learn WordPress
